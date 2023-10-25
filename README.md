@@ -4,7 +4,7 @@ Hello! I've set up this repository to highlight some relevent projects and work 
 
 ## Salesforce
 
-## Apps
-## Automation
-## Lightning Web Components
-## Integration
+### Apps
+### Automation
+### Lightning Web Components
+### Integration
